@@ -1,0 +1,27 @@
+.about {
+  padding-top: 5rem;
+  padding-bottom: 4rem;
+  background: url("/images/about.png") #f5f6f7;
+  background-repeat: no-repeat;
+  background-position: top 5rem right 6rem;
+}
+
+/* ==========  BreakPoints  ========== */
+@media (max-width: 991px) {
+  .about {
+    background-image: url("/images/about.png");
+    background-repeat: no-repeat;
+    background-position: top 6rem right 1rem;
+  }
+}
+@media (max-width: 767px) {
+  .about {
+    background-image: none !important;
+    text-align: center;
+  }
+}
+@media (max-width: 500px) {
+  .about br {
+    display: none;
+  }
+}
