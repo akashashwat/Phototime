@@ -9,7 +9,7 @@ import Community from "./components/community/Community";
 import Subscribe from "./components/subscribe/Subscribe";
 import Download from "./components/download/Download";
 import Footer from "./components/footer/Footer";
-import BackToTop from "./components/backToTop/BacktoTop";
+import BackToTop from "./components/backtotop/BacktoTop";
 import Preloader from "./components/preloader/Preloader";
 
 function App() {
