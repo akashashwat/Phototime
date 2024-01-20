@@ -1,6 +1,8 @@
 Phototime Landing Page
 Welcome to the Phototime Landing Page project! This project is a straightforward and fully responsive landing page website built using React.
 
+Demo - https://phototime-react.netlify.app/
+
 Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine.
 
@@ -13,7 +15,7 @@ Installing
 Clone the repository to your local machine.
 
 bash
-git clone https://github.com/yourusername/react-landing-page.git
+git clone [https://github.com/akashashwat/Phototime]
 Navigate to the project directory.
 
 bash
