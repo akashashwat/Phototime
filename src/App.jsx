@@ -18,13 +18,14 @@ function App() {
   useEffect(() => {
     setTimeout(() => {
       setLoading(false);
-    }, 1500);
+    }, 3000);
 
     AOS.init({
       duration: 1000,
       mirror: true,
     });
   }, []);
+
   return (
     <div>
       {loading ? (
