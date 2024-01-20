@@ -17,14 +17,19 @@ const Download = () => {
           data-aos="fade-up"
           data-aos-delay="300"
         >
-          <a href="#" className="d-flex align-items-center">
-            <span>apple store</span>
-            <i className="fa-brands fa-apple"></i>
-          </a>
-          <a href="#" className="d-flex align-items-center">
+          <button className="d-flex align-items-center">
+            <span>AppleStore</span>
+            <span>
+              <i className="fa-brands fa-apple"></i>
+            </span>
+          </button>
+
+          <button className="d-flex align-items-center">
             <span>play store</span>
-            <i className="fa-brands fa-google-play"></i>
-          </a>
+            <span>
+              <i className="fa-brands fa-google-play"></i>
+            </span>
+          </button>
         </div>
       </div>
     </section>
