@@ -11,7 +11,7 @@ const Footer = () => {
             <a href="#">our teams</a>
           </div>
           <p>
-            Made with ♥ <span> Shubham Patel</span>
+            Made with ♥ <span> Devina Shrivastav</span>
           </p>
         </div>
         <div className="footer__right d-none d-sm-block">
